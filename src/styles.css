@@ -1,6 +1,9 @@
 p {
   font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 h1 {
   font-family: "Playfair Display", serif;
+  color: black;
+  font-weight: bold;
 }
